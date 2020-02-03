@@ -1,10 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
 
 import React from 'react';
 import {
@@ -26,7 +19,7 @@ import {
 
 
 
-export default class App extends Component {
+export default class G1Marcha extends Component {
   constructor(props){
     super(props)
     
